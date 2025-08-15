@@ -1,6 +1,6 @@
 # AK-ChatBot
 
-**AI Chatbot Project** built with a Python backend and React frontend. This project allows users to interact with an AI-powered chatbot, providing a sleek, modern interface for chatting.
+**AI Chatbot Project** Built with a Python backend and React frontend. This project allows users to interact with an AI-powered chatbot, providing a sleek, modern interface for chatting.
 
 
 ## Features
