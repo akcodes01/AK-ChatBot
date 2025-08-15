@@ -1,0 +1,12 @@
+# Backend
+Backend/.env
+Backend/__pycache__/
+
+# Frontend
+Frontend/my-project/node_modules/
+Frontend/my-project/dist/
+Frontend/my-project/.env
+
+# OS
+.DS_Store
+Thumbs.db
