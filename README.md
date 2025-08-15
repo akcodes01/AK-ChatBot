@@ -89,5 +89,4 @@ You can customize the AI backend or integrate any other AI API.
 ## Author
 Adnan Khan
 YouTube: Chasewithadnankhan1122
-Email: adnankhan47219@gmail.com
 Location: Peshawar, Pakistan
