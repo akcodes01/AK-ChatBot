@@ -31,18 +31,18 @@
 --------------------------------------------------------
 
 ## Folder Structure
-├─ Backend/
-│ ├─ app.py
-│ ├─ requirements.txt
-│ └─ .env (contains secrets, not pushed)
-├─ Frontend/
-│ └─ my-project/
-│ ├─ src/
-│ ├─ public/
-│ ├─ package.json
-│ └─ ...
-└─ README.md
-
+`AK-ChatBot/`
+`├─ Backend/`
+`│  ├─ app.py`
+`│  ├─ requirements.txt`
+`│  └─ .env (contains secrets, not pushed)`
+`├─ Frontend/`
+`│  └─ my-project/`
+`│     ├─ src/`
+`│     ├─ public/`
+`│     ├─ package.json`
+`│     └─ ...`
+`└─ README.md`
 -------------------------------------------------------------------------
 
 ## Installation
