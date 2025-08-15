@@ -12,7 +12,7 @@
 - Loading indicators for AI responses.
 - Easy to deploy and extend.
 
-====================================================================================================
+============================================================================================
 
 ## Tech Stack
 
@@ -35,7 +35,7 @@ AK-ChatBot/
 ├─ Backend/
 │ ├─ app.py
 │ ├─ requirements.txt
-│ └─ .env (not pushed to GitHub)
+│ └─ .env (contains secrets, not pushed)
 ├─ Frontend/
 │ └─ my-project/
 │ ├─ src/
