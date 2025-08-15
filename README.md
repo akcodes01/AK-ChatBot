@@ -87,6 +87,6 @@ Do not push your .env file to GitHub (contains API keys or secrets). It is inclu
 You can customize the AI backend or integrate any other AI API.
 
 ## Author
-Adnan Khan
+Adnan Khan (Machine learner)
 YouTube: Chasewithadnankhan1122
 Location: Peshawar, Pakistan
