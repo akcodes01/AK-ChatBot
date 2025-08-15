@@ -11,8 +11,8 @@
 - Conversation history with smooth scrolling.
 - Loading indicators for AI responses.
 - Easy to deploy and extend.
-
-============================================================================================
+ 
+-----------------------------------------------------------
 
 ## Tech Stack
 
