@@ -33,15 +33,15 @@
 ## Folder Structure
 AK-ChatBot/
 ├─ Backend/
-│ ├─ app.py
-│ ├─ requirements.txt
-│ └─ .env (contains secrets, not pushed)
+│  ├─ app.py
+│  ├─ requirements.txt
+│  └─ .env  (contains secrets, not pushed)
 ├─ Frontend/
-│ └─ my-project/
-│ ├─ src/
-│ ├─ public/
-│ ├─ package.json
-│ └─ ...
+│  └─ my-project/
+│     ├─ src/
+│     ├─ public/
+│     ├─ package.json
+│     └─ ...
 └─ README.md
 
 -------------------------------------------------------------------------
